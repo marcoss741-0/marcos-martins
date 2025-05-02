@@ -52,10 +52,12 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
+        <div className={styles.blockdesc}>
         <p className={styles.description}>
           Sou um estudante de programação apaixonado e com grande interesse em
           projetos de código aberto, desenvolvimento web e aprendizado contínuo.
         </p>
+        </div>
         <a href={CV} download>
           <button className="hover">Curriculo</button>
         </a>
