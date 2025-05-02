@@ -12,17 +12,8 @@ function Projects() {
         <h1 className="sectionTitle">Projetos</h1>
         <div className={styles.projectsContainer}>
           <h3>
-            Area deprojetos vazia mas logo meus trabalhos serão publicados
+            Area de projetos ainda vazia mas logo meus trabalhos serão publicados
           </h3>
-          {/* <ProjectCard src={viberr} link="#" h3="Viberr" p="Streaming App" />
-          <ProjectCard
-            src={freshBurger}
-            link="#"
-            h3="Fresh Burger"
-            p="Hamburger Restaurant"
-          />
-          <ProjectCard src={hipsster} link="#" h3="Hipsster" p="Glasses Shop" />
-          <ProjectCard src={fitLift} link="#" h3="FitLift" p="Fitness App" /> */}
         </div>
       </section>
     </>
