@@ -79,6 +79,11 @@
   gap: 20px;
 }
 
+.blockdesc {
+  justify-content: center;
+  align-items: center;
+}
+
 @media (width >= 800px) {
   .container {
     flex-direction: row-reverse;
