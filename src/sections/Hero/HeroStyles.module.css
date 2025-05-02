@@ -82,6 +82,8 @@
 .blockdesc {
   justify-content: center;
   align-items: center;
+  display: flex;
+  width: 100%;
 }
 
 @media (width >= 800px) {
